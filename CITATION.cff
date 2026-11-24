@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following information."
+
+title: "Interpretable Deep Learning for Psychosocial Assessment of Women's Mental Health and Empowerment"
+
+authors:
+  - family-names: "Muhajab"
+    given-names: "Hanan"
+    orcid: "https://orcid.org/0009-0000-3472-3723"
+
+  - family-names: "Ahamed"
+    given-names: "Saahira Banu"
+
+version: "1.0.0"
+
+date-released: "2026-11-24"
+
+license: "MIT"
+
+keywords:
+  - "women's mental health"
+  - "women's empowerment"
+  - "psychosocial factors"
+  - "deep learning"
+  - "machine learning"
+  - "TabM"
+  - "HSIC-LASSO"
+  - "Adan optimizer"
+  - "SHAP"
+  - "explainable AI"
+  - "depression prediction"
+  - "maternal depression"
+
+repository-code: "YOUR-GITHUB-REPOSITORY-URL"
+
+abstract: >
+  This software provides the implementation of the Explainable Women's
+  Mental Health and Empowerment Assessment (X-WMHEA) model for psychosocial
+  assessment of women's mental health and empowerment. The implementation
+  includes psychosocial data preprocessing, HSIC-LASSO feature selection,
+  TabM-based classification, Adan optimization, and SHAP-based explainability
+  analysis.
